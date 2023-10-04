@@ -11,8 +11,8 @@
 
 ## 角色封面
 
-![](./cover.webp)
+![](./cover.jpg)
 
 ## 角色头像
 
-![](./avatar.webp)
+![](./avatar.jpg)
